@@ -1,0 +1,36 @@
+.App {
+	text-align: center;
+}
+
+table {
+	margin: auto;
+	width: 80%;
+    border: 1px solid #444444;
+}
+
+th, td {
+    border: 1px solid #444444;
+  }
+/* div {
+	  width: 80%;
+	  margin: auto;
+  } */
+
+.board {
+	border: 1px solid black;
+	height: 400px;
+	width: 200px;
+	float: left;
+	margin: 0 20px;
+}
+.kanban {
+	background-color: skyblue;
+	border: 1px solid rgb(212, 243, 255);
+	width: 180px;
+	margin: 10px 10px;
+
+}
+
+.cc {
+	clear: both;
+}
