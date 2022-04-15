@@ -15,4 +15,4 @@ react + express
 ### `쿼리수정`
 ### `렌더링성능 최적화`
 ### `주석제거`
-### `재택 개발환경세팅(maria + DBeaver)`
+### `재택 개발환경세팅(maria + DBeaver 또는 네이버클라우드 mysql서버 물리기)`
