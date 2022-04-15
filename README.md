@@ -9,3 +9,9 @@ react + express
 ### `mariadb`
 ### `react-dnd`
 ### `react-beautiful-dnd`
+
+
+## 앞으로 진행할부분
+###쿼리수정
+###렌더링성능 최적화
+###주석제거
