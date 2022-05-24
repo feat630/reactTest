@@ -9,7 +9,7 @@ react + express
 ### `mariadb`
 ### `react-dnd`
 ### `react-beautiful-dnd`
-
+### `body-parser`
 
 ## 앞으로 진행할부분
 ### `쿼리수정`
